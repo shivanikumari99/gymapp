@@ -131,4 +131,17 @@ h4{
     margin-left: 180px;
     
 }
+p{
+    font-family:sans-serif ;
+    margin-left: 180px;
+    max-width: 330px;
+     color: #5A5A5A;
+     font-size: small;
+     
+}
+.text1{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -140px;
+}
 
