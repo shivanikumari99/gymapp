@@ -1,0 +1,134 @@
+button{
+    background-color: rgb(65, 64, 64);
+    color: white;
+    border: none;
+    height: 30px;
+    width:100px;
+}
+
+.menu{
+    position: relative;
+
+    margin-left:180px;
+    margin-top: 20px;
+    margin-right: 180px;
+    background-color: white;
+    height: 2em;
+    box-shadow: inset;
+    
+}
+.menu a{
+    padding-left: 2em;
+     text-decoration: none;
+     color: black;
+     font-family: sans-serif;
+     font-weight: light;
+     box-sizing: border-box;
+     text-align: center;
+     font-size: small;
+     
+    
+}
+.top{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: -300px;
+    
+}    
+
+.top1{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 600px; 
+
+}
+.circle{
+    
+    margin-left: 160px;
+    margin-top: px;
+}
+.circle1{
+    
+    margin-left: 450px;
+    margin-top: -300px;
+}
+.circle2{
+
+    margin-left: 810px;
+    margin-top: -300px;
+}
+
+/*.container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between; 
+    
+}
+*/
+.yellow{
+    position: absolute;
+    margin-left: 830px;
+    margin-top: -270px;
+}
+.girl{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -160px;
+}
+.girl1{
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 220px;
+}
+ .para p{
+    font-family:sans-serif ;
+    margin-left: 150px;
+    max-width: 510px;
+     color: #5A5A5A;
+     font-size: small;
+     margin-top: -10px;
+}
+h4{
+    font-family:sans-serif ;
+    margin-left: 150px;
+    max-width: 510px;
+     color: #5A5A5A;
+     font-size: small;
+}
+.para{
+    position: absolute;
+    margin-top: -210px;
+    margin-left: -50px;
+}
+.rectyell{
+    position: absolute;
+    margin-left: 790px;
+    margin-top: -270px;
+}
+.girl2{
+    position: absolute;
+    margin-left: 670px;
+    margin-top: -250px;
+}
+.list{
+    position: absolute;
+    font-family:sans-serif ;
+    margin-left: 180px;
+    max-width: 510px;
+     color: #5A5A5A;
+     font-size: small;
+     max-width: 300px;
+     margin-top: -200px;
+}
+.white{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 550px;
+}
+.line{
+    margin-left: 180px;
+    
+}
+
